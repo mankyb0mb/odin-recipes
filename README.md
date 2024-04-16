@@ -1,1 +1,1 @@
-testing out vscode git actions
+We are going to make a basic recipe website to test our skillz :D
